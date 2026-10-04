@@ -52,7 +52,6 @@ Created custom DAX measures to calculate key workforce metrics, including:
 | Active Employees | Employees currently active |
 | Total Attrition | Number of employees who left |
 | Attrition Rate | Attrition Count / Total Employees |
-| Average Age | Average employee age |
 | Average Monthly Income | Average employee monthly income |
 | Average Years at Company | Average employee tenure |
 
