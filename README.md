@@ -59,6 +59,7 @@ Created custom DAX measures to calculate key workforce metrics, including:
 
 The report consists of two analytical pages.
 
+
 ### Page 1 — HR Summary
 
 Provides a high-level overview of the workforce, including:
